@@ -8,5 +8,5 @@ Base on [InteriorNet](https://interiornet.org/) dataset, we selected 8219 pictur
 
 # Relative project
 Base on this dataset, we perform to work to tackle the task of room layout estimation:
-1. [2D room layout estimation of general rooms based on un directed graph](https://github.com/Hui-Yao/2D-graph-layout-estimation)
+1. [2D room layout estimation of general rooms based on undirected graph](https://github.com/Hui-Yao/2D-graph-layout-estimation)
 2. [3D room layout estimation of general rooms based on ordinal semantic segmantation](https://github.com/Hui-Yao/3D-ordinal-layout-estimation)
